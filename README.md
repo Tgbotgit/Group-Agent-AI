@@ -54,7 +54,7 @@ bot.run()
 
 1. Add the bot to a Telegram group.
 2. Mention the bot using `@your_bot_username` followed by a message.
-3. The AI agent will process the request using OpenAI’s API and respond accordingly.
+3. The AI agent will process the request and respond in character.
 
 ## Support
 
